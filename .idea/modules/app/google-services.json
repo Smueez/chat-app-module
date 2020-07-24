@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "179347157904",
+    "firebase_url": "https://chatapputil.firebaseio.com",
+    "project_id": "chatapputil",
+    "storage_bucket": "chatapputil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179347157904:android:55810695ea63c924367915",
+        "android_client_info": {
+          "package_name": "com.example.chatapplibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179347157904-b2lfbdk3h89to3gr1dqfl62a4r43e4qn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapplibrary",
+            "certificate_hash": "88a506d80210414ce7ed8b6b1d7bfa882721851d"
+          }
+        },
+        {
+          "client_id": "179347157904-7jckoh4f50s3ee8735vq7damfgb1b01k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-_D3fzv8qwOZ7_abKzAdxSPmMvCUazio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179347157904-7jckoh4f50s3ee8735vq7damfgb1b01k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
